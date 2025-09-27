@@ -73,7 +73,7 @@ A collection of **beautiful, easy-to-read recipe cards**. Organize your favorite
 6. Bake for 30–35 minutes or until a toothpick comes out clean.  
 7. Let cool before frosting.  
 
-![Chocolate Cake](images/chocolate cake.jpg)
+images/chocolate cake.jpg
 
 ## 🛠 Features
 
