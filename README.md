@@ -47,45 +47,33 @@ A collection of **beautiful, easy-to-read recipe cards**. Organize your favorite
 
 ## 📖 Featured Recipes
 
-### 1️⃣ Chocolate Chip Cookies 🍪
-**Description:** Chewy cookies with gooey chocolate chips and golden edges.  
-**Prep Time:** 15 mins | **Cook Time:** 12 mins | **Servings:** 24  
-**Ingredients:** Butter, Sugar, Eggs, Flour, Baking Soda, Salt, Chocolate Chips  
+
+### 1️⃣ Chocolate Cake 🍫
+**Description:** Moist and rich chocolate cake perfect for any celebration.  
+**Prep Time:** 20 mins | **Cook Time:** 35 mins | **Servings:** 8  
+**Ingredients:**  
+- 1 and 3/4 cups all-purpose flour  
+- 3/4 cup cocoa powder  
+- 2 cups sugar  
+- 1 and 1/2 tsp baking powder  
+- 1 and 1/2 tsp baking soda  
+- 1 tsp salt  
+- 2 eggs  
+- 1 cup milk  
+- 1/2 cup vegetable oil  
+- 2 tsp vanilla extract  
+- 1 cup boiling water  
+
 **Instructions:**  
-1. Preheat oven to 350°F (175°C).  
-2. Cream butter and sugars.  
-3. Add eggs and vanilla.  
-4. Mix in dry ingredients, fold in chocolate chips.  
-5. Scoop and bake 10–12 mins.  
+1. Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch pan.  
+2. In a large bowl, combine flour, cocoa, sugar, baking powder, baking soda, and salt.  
+3. Add eggs, milk, oil, and vanilla. Beat on medium speed for 2 minutes.  
+4. Stir in boiling water (batter will be thin).  
+5. Pour batter into prepared pan.  
+6. Bake for 30–35 minutes or until a toothpick comes out clean.  
+7. Let cool before frosting.  
 
-![Chocolate Chip Cookies](images/cookies.png)
-
-### 2️⃣ Spaghetti Carbonara 🍝
-**Description:** Classic Italian pasta with creamy egg sauce and pancetta.  
-**Prep Time:** 10 mins | **Cook Time:** 15 mins | **Servings:** 2  
-**Ingredients:** Spaghetti, Eggs, Parmesan, Pancetta, Black Pepper  
-**Instructions:**  
-1. Cook spaghetti.  
-2. Fry pancetta.  
-3. Mix eggs and Parmesan.  
-4. Combine pasta, pancetta, and egg mixture.  
-5. Serve immediately.  
-
-![Spaghetti Carbonara](images/spaghetti.png)
-
-### 3️⃣ Fresh Lemonade 🍋
-**Description:** Refreshing summer drink with zesty lemon flavor.  
-**Prep Time:** 5 mins | **Cook Time:** 0 mins | **Servings:** 4  
-**Ingredients:** Lemons, Sugar, Water, Ice  
-**Instructions:**  
-1. Squeeze lemons.  
-2. Mix juice with sugar and water.  
-3. Add ice and stir.  
-4. Serve chilled.  
-
-![Lemonade](images/lemonade.png)
-
----
+![Chocolate Cake](images/chocolate_cake.png)
 
 ## 🛠 Features
 
