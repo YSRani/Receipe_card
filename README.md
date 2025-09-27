@@ -28,7 +28,7 @@ A collection of **beautiful, easy-to-read recipe cards**. Organize your favorite
 
 ## 🌐 Live Demo
 
-[🍪 Try it live!](https://ysrani.github.io/Receipe_card/)
+[ 🍰Try it live!]https://ysrani.github.io/Receipe_card/
 
 ---
 
