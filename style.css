@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f2f9;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  width: 400px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.dish-img {
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+button {
+  background: #6c63ff;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 5px 0;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #4b42d6;
+}
+
+.hidden {
+  display: none;
+}
+
+ul li, ol li {
+  text-align: left;
+  margin: 5px 0;
+  transition: color 0.3s ease;
+}
+
+ul li:hover, ol li:hover {
+  color: #6c63ff;
+  text-decoration: underline;
+}
+
+/* Progress Bar */
+.progress-bar {
+  margin-top: 15px;
+  width: 100%;
+  background: #ddd;
+  border-radius: 10px;
+  height: 10px;
+}
+
+#progress {
+  height: 100%;
+  width: 0%;
+  background: #6c63ff;
+  border-radius: 10px;
+  transition: width 0.5s ease;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  .card {
+    width: 100%;
+  }
+}
