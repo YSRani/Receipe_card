@@ -71,9 +71,12 @@ A collection of **beautiful, easy-to-read recipe cards**. Organize your favorite
 4. Stir in boiling water (batter will be thin).  
 5. Pour batter into prepared pan.  
 6. Bake for 30–35 minutes or until a toothpick comes out clean.  
-7. Let cool before frosting.  
+7. Let cool before frosting.
 
-![Chocolate Cake](images/chocolate cake.jpg)
+   
+![chocolate cake](https://github.com/user-attachments/assets/cf685e75-8dcc-4685-be83-9766d452ae25)
+
+
 ## 🛠 Features
 
 - Clean, card-based layout for recipes  
